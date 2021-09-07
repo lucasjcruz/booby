@@ -1,4 +1,4 @@
-# [Booby](https://github.com/lucasjcruz/booby) ・ [MTA-File](https://github.com/lucasjcruz)
+# [Booby](https://github.com/lucasjcruz/booby) ・ [Bob](https://github.com/lucasjcruz/bob/)
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -47,7 +47,7 @@ $ yarn dev
 
 Para o os comandos do Booby relacionados ao MTA funcionar, é preciso que:
 
-- Instale esse repositorio -> [bob](https://github.com/lucasjcruz)
+- Instale esse repositorio -> [bob](https://github.com/lucasjcruz/bob/)
 - Coloque este repositorio em sua pasta do MTA **(PASTA_DO_MTA/server/mods/deathmatch/resources/[gamemodes]/)**
 - Abra o seu servidor -> (PASTA_DO_MTA/server/**MTA Server**)
 - E já no servidor, crie uma conta para o Booby. Exemplo:
