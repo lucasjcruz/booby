@@ -1,0 +1,26 @@
+{
+  "name": "booby",
+  "version": "1.0.5",
+  "description": "Simple bot discord.",
+  "main": "index.js",
+  "author": {
+    "name": "Lucas Cruz",
+    "github": "https://github.com/lucasjcruz",
+    "discord": "Lukao#2798"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npm start"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "mtasa": "^0.1.3",
+    "yarn": "^1.22.10"
+  },
+  "repository": {
+    "url": "github.com/lucasjcruz/booby"
+  },
+  "license": "MIT"
+}
