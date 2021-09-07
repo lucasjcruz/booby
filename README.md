@@ -24,8 +24,6 @@ Antes de utilizar esse projeto, verifique se tem os requisitos necessarios:
 
 Para instalar o Booby em seu dispositivo, siga essas etapas:
 
-
-Windows:
 ```
 $ git clone https://github.com/lucasjcruz/booby.git
 ```
