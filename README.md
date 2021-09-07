@@ -3,8 +3,6 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lucasjcruz/booby?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/lucasjcruz/booby?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/lucasjcruz/booby?style=for-the-badge)
 
 
 > Booby é um bot que faz callRemote's entre o Discord e o MTA, utilizando a API do [MTA:SA](https://multitheftauto.com)
