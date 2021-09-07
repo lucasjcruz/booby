@@ -1,6 +1,6 @@
 module.exports = {
-    ip: '26.228.204.156',
-    port: 22005,
-    user: 'Bobby',
-    pass: '123456'
+    ip: 'IP_DO_SEU_SERVIDOR',
+    port: portHTTP,
+    user: 'Booby',
+    pass: 'SENHA'
 }
